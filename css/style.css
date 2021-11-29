@@ -1,31 +1,4 @@
-@font-face {
-    font-family: 'HKGrotesk-Light';
-    src: url('../font/OTF/HKGrotesk-Light.otf');
-}
-@font-face {
-    font-family: 'HKGrotesk-Medium';
-    src: url('../font/OTF/HKGrotesk-Medium.otf');
-}
-@font-face {
-    font-family: 'HKGrotesk-Regular';
-    src: url('../font/OTF/HKGrotesk-Regular.otf');
-}
-@font-face {
-    font-family: 'HKGrotesk-SemiBold';
-    src: url('../font/OTF/HKGrotesk-SemiBold.otf');
-}
-@font-face {
-    font-family: 'Product-Bold';
-    src: url('../font/ProductSans/Product\ Sans\ Bold.ttf');
-}
-@font-face {
-    font-family: 'HKGrotesk-Regular';
-    src: url('../font/OTF/HKGrotesk-Regular.otf');
-}
-@font-face {
-    font-family: 'HKGrotesk-SemiBold';
-    src: url('../font/OTF/HKGrotesk-SemiBold.otf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -34,7 +7,7 @@
 body{
     overflow-x: hidden;
     background-color: #FAF6FF;
-    font-family: 'HKGrotesk-Light';
+    font-family: 'Montserrat', sans-serif;
 }
 a{
     text-decoration: none;
