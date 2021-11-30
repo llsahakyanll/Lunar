@@ -642,7 +642,7 @@ main{
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
-    line-height: 51px;
+    line-height: 0 !important;
     letter-spacing: 0.2px;
     color: #32046B;
     overflow: hidden;
@@ -651,7 +651,7 @@ main{
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    height: 140px;
+    height: 0 !important;
     
 }
 .first_slider_lbtn_hover,
