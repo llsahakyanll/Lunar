@@ -1498,6 +1498,10 @@ footer .wave#wave4{
     .footer_div_2 {
         justify-content: center !important;
     }
+    .footer_div_2 .footer_div_1,
+    .footer_div_1 address{
+        align-items: center;
+    }
     .footer_global {
         padding-bottom: 20px;
         height: max-content;
