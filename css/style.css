@@ -651,7 +651,7 @@ main{
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
-    height: 0 !important;
+    height: unset !important;
     
 }
 .first_slider_lbtn_hover,
