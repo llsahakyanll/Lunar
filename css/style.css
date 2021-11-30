@@ -1409,6 +1409,7 @@ footer .wave#wave4{
 @media (max-width: 930px){
     .third_block_main_text {
         font-size: 35px;
+        text-align: center;
         width: 376.83px;
     }
 }
