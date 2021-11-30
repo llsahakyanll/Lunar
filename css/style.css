@@ -642,7 +642,7 @@ main{
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
-    line-height: 0 !important;
+    line-height: unset !important;
     letter-spacing: 0.2px;
     color: #32046B;
     overflow: hidden;
