@@ -1165,6 +1165,12 @@ footer .wave#wave4{
 /* End Wave */
 /* End Footer */
 
+@media (max-width: 1920px){
+    .firstBlock_main{
+        margin: 0;
+        width: unset;
+    }
+}
 @media (max-width: 1800px){
     .firstblock{
         padding-left: 55px;
