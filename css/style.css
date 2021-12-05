@@ -959,7 +959,8 @@ footer{
     position: relative;
     width: 100%;
     background-color: #B57AFF;
-    height: 539px;
+    height: max-content !important;
+    padding: 104.5px 0px;
 }
 .footer_oval_1{
     position: absolute;
