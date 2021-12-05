@@ -178,10 +178,12 @@ header{
 /* End DropDown */
 
 /* Main */
-
+.firstBlock_main{
+    width: 1920px;
+    margin: 0 auto; 
+}
 .firstblock{
-    /* width: calc(1920px - 279px); */
-    /* margin: 0 auto; */
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
