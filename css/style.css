@@ -1258,7 +1258,9 @@ footer .wave#wave4{
     .sab_text {
         width: 460px;
     }
-    
+    .second_animation_block{
+        padding-bottom: 62px;   
+    }
 }
 @media (max-width: 1400px){
     .second_slider {
